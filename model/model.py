@@ -1,5 +1,3 @@
-from multiprocessing.managers import convert_to_error
-
 from database.distributore_DAO import DistributoreDAO
 
 '''
